@@ -1,0 +1,7 @@
+.specs-container
+{
+    display: flex;
+    flex: 1;
+    width: 100%;
+    background-color: #bc2929;
+}

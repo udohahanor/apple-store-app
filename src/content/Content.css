@@ -1,0 +1,9 @@
+.content-container
+{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    background-color: #0e131b;
+    color: #79c9fc;
+}
